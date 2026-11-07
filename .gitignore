@@ -1,0 +1,20 @@
+# Environnement Python
+.venv/
+__pycache__/
+*.pyc
+
+# Images et archives médicales
+*.jpg
+*.jpeg
+*.png
+*.dcm
+*.zip
+*.tar
+*.gz
+
+# Données et résultats générés
+results/*.csv
+
+# Fichiers temporaires
+.ipynb_checkpoints/
+.DS_Store
