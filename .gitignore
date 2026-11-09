@@ -18,3 +18,10 @@ results/*.csv
 # Fichiers temporaires
 .ipynb_checkpoints/
 .DS_Store
+
+# Raw medical datasets
+data/
+ressources/
+
+# Compressed archives
+*.tgz
